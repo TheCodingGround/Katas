@@ -1,0 +1,15 @@
+{
+  "name": "string-calculator-kata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "string-calculator.js",
+  "scripts": {
+    "test": "mocha *.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
